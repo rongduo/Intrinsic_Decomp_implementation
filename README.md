@@ -19,7 +19,7 @@ evaluate_output
 ## Bibtex
 We are happy to be cited when our codes are useful in your projects.
 ```
-@article{LI2021116281,
+@article{SparseIntrinsic,
 author = {Kun Li and Yujie Wang and Xinchen Ye and Chenggang Yan and Jingyu Yang},
 title = {Sparse intrinsic decomposition and applications},
 journal = {Signal Processing: Image Communication},
