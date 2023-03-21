@@ -2,7 +2,7 @@
 
 
 ## Environment
-The codes are test on **Ubuntu 16.04, Matlab 2016b**.
+The codes are tested on **Ubuntu 16.04, Matlab 2016b**.
 
 
 ## Test on the provided examples from MPI-Sintel dataset:
